@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    padding-top: 20px;
+    font-family:cursive;
+}
+input{
+    border-radius: 10px;
+    font-size: 1rem;
+}
+
+button{
+    font-size: 1rem;
+    background-color: #FFB26F;
+    border-radius: 5px;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+button:active{
+    background-color: #DE8F5F;
+}
+
+.deleteButton{
+    background-color: rgb(199, 113, 48);
+}
+
+.cross{
+    text-decoration: line-through;
+}
